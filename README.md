@@ -22,9 +22,12 @@ Teaching Digital Citizenship is essential for preparing students to safely navig
 
 ## 📂 Contents
 
-- `Lesson_Plans/` – PDFs or documents for each grade level
-- `Student_Handouts/` – activity sheets, checklists, and reflection questions
-- `Presentation_Slides/` – upload sample slides as PDFs or link to Google Slides
+
+- [Presentation Why Digital Citizenship Slide Deck](https://github.com/johnschleisCOG/Digital-Citizenship/blob/main/NWDTC%202023%20Why%20Digital%20Citizenship%20Slides.pdf)
+
+- [Presentation Why Digital Citizenship Handout for Participants](https://github.com/johnschleisCOG/Digital-Citizenship/blob/main/NWDTC%202023%20Why%20Digital%20Citizenship__Handout.pdf)
+
+- [Presentation Why Digital Citizenship Lessons,Objectives,Materials](https://github.com/johnschleisCOG/Digital-Citizenship/blob/main/NWDTC%202023%20Why%20Digital%20Citizenship__Digital%20Citizenship%20Lessons%2CObjectives%2CMaterials.pdf)
 
 ---
 
